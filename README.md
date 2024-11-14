@@ -42,3 +42,4 @@ I used regular CSS styling the components to ensure clean, reusable styles and a
 1. Desktop view: ![Desktop](image-2.png)
 2. Mobile view: ![Mobile](image-1.png)
 
+## Assignment 2- met all the requirements needed
