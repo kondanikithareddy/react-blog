@@ -1,0 +1,26 @@
+.likeButton {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    color: #333;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .likeButton.liked {
+    color: #ff6347; /* Tomato color for liked state */
+  }
+  
+  .likeButton i {
+    margin-right: 8px;
+    font-size: 1.5rem;
+  }
+  
+  .likeButton:hover {
+    color: #007bff;
+  }
+  
+  .likeButton span {
+    font-weight: bold;
+  }
+  

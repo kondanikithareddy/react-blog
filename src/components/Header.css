@@ -1,0 +1,13 @@
+/* src/components/Header.css */
+.dark-mode-toggle {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dark-mode-toggle:hover {
+    background-color: #9b59b6;
+  }
+  
