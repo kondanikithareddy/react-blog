@@ -1,0 +1,36 @@
+
+/* Container for the BlogList */
+.blog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 20px;
+  }
+  
+  /* Styling each individual blog post in the list */
+  .blog-item {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: background-color 0.3s ease;
+  }
+  
+  .blog-item:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Title for each blog item */
+  .blog-item .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Description for each blog item */
+  .blog-item .description {
+    font-size: 1rem;
+    color: #666;
+    margin-top: 10px;
+  }
+  
