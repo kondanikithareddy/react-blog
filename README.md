@@ -16,7 +16,6 @@ A blog platform built with React and Vite.
 3. src/index.css: Contains the CSS styles for the app, including styles for the Header component.
 4. .gitignore: Excludes node_modules, dist, and other unnecessary files from being tracked in Git.
 
-
 ## Screenshot
 ![alt text](image.png)
 
@@ -25,4 +24,21 @@ A blog platform built with React and Vite.
 2. I created a Header component, structured it within the app, and applied basic styling.
 3. I practiced setting up a Git repository, committing changes, and pushing them to a remote GitHub repository.
 
+## Components Structure
+1. BlogPost: Individual blog post display
+2. BlogList: Container for multiple posts
+3. Header: Navigation and site title
+
+## Styling Approach
+I used regular CSS styling the components to ensure clean, reusable styles and a maintainable structure.
+
+## New Features
+1. Added BlogPost and BlogList components to display individual posts and a list of posts.
+2. Integrated sample data to populate the blog posts dynamically.
+3. Applied responsive design for mobile and desktop views.
+4. Added all the Bonus Features too
+
+## Screenshots
+1. Desktop view: ![Desktop](image-2.png)
+2. Mobile view: ![Mobile](image-1.png)
 
